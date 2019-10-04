@@ -22,6 +22,8 @@ paginate = 3
   GitLabUser = "GitLabUserName"
   GlitchUser = "GlitchUserName"
   KeybaseUser = "KeybaseUserName"
+  LinkedInUser = "LinkedInUserName"
+  MediumUser = "MediumUserName"
   MicroBlogUser = "MicroBlogUserName"
   RedditUser = "RedditUserName"
   StackOverflowUser = "StackOverflowUserName"
@@ -30,7 +32,7 @@ paginate = 3
 
   # These are parameters used for indieweb identity. You should set these along
   # with the above email/social network parameters.
-  [params.indieWeb]  
+  [params.indieWeb]
     EmailAddress = "email.address@example.com"
     FlickrUser = "FlickrUserName"
     GitHubUser = "GitHubUserName"
